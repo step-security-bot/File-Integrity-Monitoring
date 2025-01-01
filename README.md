@@ -1,6 +1,7 @@
 # File-Integrity-Monitoring
 File Integrity Monitoring
 
+[![Scorecard supply-chain security](https://github.com/M-Faheem-Khan/File-Integrity-Monitoring/actions/workflows/scorecard.yml/badge.svg)](https://github.com/M-Faheem-Khan/File-Integrity-Monitoring/actions/workflows/scorecard.yml)
 
 ## Requirements
 - Program must take the following arguments:  
