@@ -30,7 +30,7 @@ func BuildHashDB(rootDir string) {
 				log.Printf("Error generating hash for %s: %v\n", path, err)
 				return nil
 			}
-			// fmt.Printf("%s:\t%x\n", path, hash)
+			fmt.Printf("%s:\t%x\n", path, hash)
 		}
 
 		// Iterate over Symlink directories
